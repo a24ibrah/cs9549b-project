@@ -4,3 +4,4 @@ applications:
   memory: 256M
   buildpack:  https://github.com/cloudfoundry/nodejs-buildpack
   instances: 1
+  command: node test.js
