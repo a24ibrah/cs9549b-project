@@ -1,0 +1,6 @@
+---
+applications:
+- name: cs9549b-project
+  memory: 256M
+  buildpack:  https://github.com/cloudfoundry/nodejs-buildpack
+  instances: 1
