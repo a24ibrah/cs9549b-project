@@ -13,6 +13,5 @@
   },
   "keywords": [],
   "author": "SherryChen",
-  "license": "ISC",
-    "scripts": { "start": "server" }
+  "license": "ISC"
 }
