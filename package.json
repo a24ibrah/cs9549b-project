@@ -15,7 +15,7 @@
   "author": "SherryChen",
   "license": "ISC",
   "engines": {
-    "node": "4.7.2",
-    "npm": "2.7.4"
-  }
+  "node": "6.9.x",
+  "npm": "2.15.x"
+}
 }
