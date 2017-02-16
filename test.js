@@ -1854,10 +1854,9 @@
             selected: 1
         },
         title: {
-            text: 'Stock Price - Project cs9549b’
-        },
+            text: 'Stock Price - Project cs9549b'},
         series: [{
-            name: ‘Progress report I’,
+            name: 'Progress report I',
             data: data,
             tooltip: {
                 valueDecimals: 2
